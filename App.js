@@ -93,7 +93,7 @@ export default function App() {
       <View style={styles.header}>
         <Text style={styles.headerText}>Dashboard</Text>
       </View>
-
+  {/* hello world */}
 
       {/* Cards */}
       <View style={styles.dashboard}>
