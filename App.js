@@ -97,7 +97,7 @@ export default function App() {
 
       {/* Cards */}
       <View style={styles.dashboard}>
-
+{/* Kemi shtuar nje koment te ri  */}
         <View style={styles.card}>
           <Text style={styles.cardNumber}>120</Text>
           <Text>Users</Text>
